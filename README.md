@@ -8,5 +8,5 @@ Read million of records
 Inserted 1 million records in 234697 milli seconds i.e 3.9 minutes
 
 ### MongoRepository read for 1000000 (1 million)
-1 read 68234 milli seconds --> 68 sec
-2 read 34458 milli seconds --> 34 sec
+	first read 68234 milli seconds --> 68 sec
+	second read 34458 milli seconds --> 34 sec
